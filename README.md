@@ -320,6 +320,15 @@ PHP Mode uses the [GNU General Public License 3](http://www.gnu.org/copyleft/gpl
 Contributors
 ------------
 
+[![0](https://sourcerer.io/fame/zonuexe/emacs-php/php-mode/images/0)](https://sourcerer.io/fame/zonuexe/emacs-php/php-mode/links/0)
+[![1](https://sourcerer.io/fame/zonuexe/emacs-php/php-mode/images/1)](https://sourcerer.io/fame/zonuexe/emacs-php/php-mode/links/1)
+[![2](https://sourcerer.io/fame/zonuexe/emacs-php/php-mode/images/2)](https://sourcerer.io/fame/zonuexe/emacs-php/php-mode/links/2)
+[![3](https://sourcerer.io/fame/zonuexe/emacs-php/php-mode/images/3)](https://sourcerer.io/fame/zonuexe/emacs-php/php-mode/links/3)
+[![4](https://sourcerer.io/fame/zonuexe/emacs-php/php-mode/images/4)](https://sourcerer.io/fame/zonuexe/emacs-php/php-mode/links/4)
+[![5](https://sourcerer.io/fame/zonuexe/emacs-php/php-mode/images/5)](https://sourcerer.io/fame/zonuexe/emacs-php/php-mode/links/5)
+[![6](https://sourcerer.io/fame/zonuexe/emacs-php/php-mode/images/6)](https://sourcerer.io/fame/zonuexe/emacs-php/php-mode/links/6)
+[![7](https://sourcerer.io/fame/zonuexe/emacs-php/php-mode/images/7)](https://sourcerer.io/fame/zonuexe/emacs-php/php-mode/links/7)
+
 In chronological order:
 
 1. Juanjo
@@ -374,7 +383,7 @@ In chronological order:
 50. [Nate Eagleson](https://github.com/NateEag)
 51. [Steve Purcell](https://github.com/purcell)
 52. TatriX
-53. [François-Xavier Bois](https://github.com/fxbois)
+53. [François-Xavier Bois](https://github.com/fxbois)
 54. [James Laver](https://github.com/jjl)
 55. [Jacek Wysocki](https://github.com/exu)
 56. [Jon Dufrense](https://github.com/jdufresne)
